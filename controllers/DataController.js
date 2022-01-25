@@ -1,8 +1,9 @@
 const data = require("../config/database/data.json");
+const alerts = require("../config/settings.json");
 
 class DataController {
     constructor() {
-        if (!data) throw new Error("Data is invalid");
+        if (!data) throw new Error(alerts.invalid_data);
     }
 
     listCountry() {

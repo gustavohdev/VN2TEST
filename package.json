@@ -4,7 +4,8 @@
   "description": "get data from a specific json array",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "",
+    "start": "node index.js"
   },
   "author": "gustavohdev",
   "license": "ISC",

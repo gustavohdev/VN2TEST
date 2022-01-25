@@ -1,0 +1,10 @@
+{
+    "alerts":{
+        "error":" Generic Error, Contact the team",
+        "loop": {
+            "invalid_data":"Data is invalid"
+        }
+        
+        
+    }
+}
