@@ -10,7 +10,9 @@
 
 # Steps To Run
 
-Clone this git
+```
+$ git clone
+```
 
 ```
 $ npm install
