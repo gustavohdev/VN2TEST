@@ -4,7 +4,7 @@
   "description": "get data from a specific json array",
   "main": "index.js",
   "scripts": {
-    "test": "",
+    "test": "jest",
     "start": "node index.js"
   },
   "author": "gustavohdev",
